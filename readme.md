@@ -16,7 +16,7 @@ To automatically download and activate Lantern Vim, follow the install instructi
 
 ### Green Lantern
 
-![green_lantern](green_lantern.png)
+![green_lantern](screenshots/green_lantern.png)
 
 <p align="center">
   Copyright &copy; 2026-present <a href="https://igbanam.com" target="_blank">Igbanam</a>
